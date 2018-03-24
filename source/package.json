@@ -1,0 +1,7 @@
+{
+  "version": "0.1.0",
+  "dependencies": {
+    "vue": "^2.5.16"
+  },
+  "author": "Jonathan Miller <jonathan@miller.gs>"
+}
