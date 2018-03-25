@@ -6,14 +6,14 @@
 // Jeet: The grid system for humans. -- an alternative grid system to Bourbon Neat.
 @import 'jeet';
 
-html, body {
-  background: gray;
-}
-
-.page-sample {
-  @include center(100%);
-  margin: 5vh;
-  padding: 2rem;
-  height: 90vh;
-  background: white;
-}
+.logo-container {
+    width: 255px;
+    height: 242px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+  }
+  .logo {
+    position: absolute;
+  }
