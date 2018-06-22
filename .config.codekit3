@@ -7,7 +7,7 @@
 		"uuidString": "9E207DDB-90AB-4C76-BB5E-A43B17A7EE30"
 		}
 	],
-"creatorBuild": "26330",
+"creatorBuild": "26680",
 "files": {
 	"\/.gitignore": {
 		"cB": 0,
@@ -253,6 +253,7 @@
 	"displayValue": "website-scaffolding",
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "brackets_magenta",
+	"iconImageWasSetByUser": 0,
 	"lastBuiltDate": 543704616
 	},
 "projectSettings": {
@@ -2056,6 +2057,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
+		"outputFormat": 0,
 		"quality": 100
 		},
 	"languageDefaultsJS": {
